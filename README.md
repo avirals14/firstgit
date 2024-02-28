@@ -1,4 +1,4 @@
 # firstgit
 first formal git repo
 <br>
--Auth Aviral Sharma
+Author -Aviral Sharma
